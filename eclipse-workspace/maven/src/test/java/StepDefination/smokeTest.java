@@ -1,9 +1,12 @@
 package StepDefination;
 
+import java.util.List;
+
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.firefox.FirefoxDriver;
 
+import cucumber.api.DataTable;
 import cucumber.api.java.en.Given;
 import cucumber.api.java.en.Then;
 import cucumber.api.java.en.When;
@@ -21,10 +24,11 @@ public class smokeTest {
 	
 	}
 
-	@When("^I enter valid \"([^\"]*)\" and \"([^\"]*)\"$")
-	public void i_enter_valid_username_and_pasword(String username,String password ) throws Throwable {
-		driver.findElement(By.id("email")).sendKeys(username);
-		driver.findElement(By.id("pass")).sendKeys(password);
+	@When("^I enter valid username and password$")
+	public void i_enter_valid_username_and_pasword(DataTable data ) throws Throwable {
+			List<List<String> > datatable 	=data.raw();
+		driver.findElement(By.id("email")).sendKeys(datatable.get(0).get(0));
+		driver.findElement(By.id("pass")).sendKeys(datatable.get(0).get(1));
 		
 	   
 	}
