@@ -2,14 +2,15 @@
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 
 <suite name="parameter facbook">
-  <test  name="facebooklogin">
+
+<listeners>
+<listener class-name="IAnnotation.Tranformer"></listener>
+</listeners>
+  <test  name="Retrymulitpletestcases">
   
-  <parameter name="url" value="https://www.facebook.com/"></parameter>
-  <parameter name="emailid" value="ds.sridhar09@gmail.com"></parameter>
-  <parameter name="password" value="mamta@sri143"></parameter>
   
   <classes>
-  <class name="com.parameter.parametertest"></class>
+  <class name="Reruntestcases.Runtest"></class>
   </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->

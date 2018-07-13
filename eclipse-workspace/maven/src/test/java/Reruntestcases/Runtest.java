@@ -5,12 +5,12 @@ import org.testng.annotations.Test;
 
 public class Runtest {
 	
-	@Test
+	@Test(retryAnalyzer = Analzer.IRetry.class)
 	public void test() {
 		Assert.assertTrue(false);
 		
 	}
-	@Test
+	@Test(retryAnalyzer = Analzer.IRetry.class)
 	public void test2() {
 		Assert.assertTrue(true);
 		
