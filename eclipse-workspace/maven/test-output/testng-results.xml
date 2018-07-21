@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="3" passed="3">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="32790" started-at="2018-07-13T12:30:55Z" finished-at="2018-07-13T12:31:28Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="32790" started-at="2018-07-13T12:30:55Z" finished-at="2018-07-13T12:31:28Z">
+      <class name="Datadriven.GmailReg">
+        <test-method status="PASS" signature="startup()[pri:0, instance:Datadriven.GmailReg@5bcab519]" name="startup" is-config="true" duration-ms="8314" started-at="2018-07-13T20:30:56Z" finished-at="2018-07-13T20:31:05Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="gmailge(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Datadriven.GmailReg@5bcab519]" name="gmailge" duration-ms="2586" started-at="2018-07-13T20:31:05Z" data-provider="gettestdata" finished-at="2018-07-13T20:31:07Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ram.kumar0912]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[24202183d]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[24202183d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailge -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Datadriven.GmailReg@5bcab519]" name="teardown" is-config="true" duration-ms="888" started-at="2018-07-13T20:31:07Z" finished-at="2018-07-13T20:31:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:Datadriven.GmailReg@5bcab519]" name="startup" is-config="true" duration-ms="5933" started-at="2018-07-13T20:31:08Z" finished-at="2018-07-13T20:31:14Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="gmailge(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Datadriven.GmailReg@5bcab519]" name="gmailge" duration-ms="3005" started-at="2018-07-13T20:31:14Z" data-provider="gettestdata" finished-at="2018-07-13T20:31:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[kumar]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ram]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[ram1.kumar0420]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[24202183d]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[24202183d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailge -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Datadriven.GmailReg@5bcab519]" name="teardown" is-config="true" duration-ms="885" started-at="2018-07-13T20:31:17Z" finished-at="2018-07-13T20:31:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="startup()[pri:0, instance:Datadriven.GmailReg@5bcab519]" name="startup" is-config="true" duration-ms="6307" started-at="2018-07-13T20:31:18Z" finished-at="2018-07-13T20:31:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startup -->
+        <test-method status="PASS" signature="gmailge(java.lang.String, java.lang.String, java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:Datadriven.GmailReg@5bcab519]" name="gmailge" duration-ms="2718" started-at="2018-07-13T20:31:24Z" data-provider="gettestdata" finished-at="2018-07-13T20:31:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[ravi]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[reddy]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[reddyravireddy142]]>
+              </value>
+            </param>
+            <param index="3">
+              <value>
+                <![CDATA[24202183d]]>
+              </value>
+            </param>
+            <param index="4">
+              <value>
+                <![CDATA[24202183d]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- gmailge -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:Datadriven.GmailReg@5bcab519]" name="teardown" is-config="true" duration-ms="833" started-at="2018-07-13T20:31:27Z" finished-at="2018-07-13T20:31:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- Datadriven.GmailReg -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>

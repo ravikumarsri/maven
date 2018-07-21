@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: TestNG
+Bundle-SymbolicName: TestNG
+Bundle-Version: 1.0.0.qualifier
+Bundle-ClassPath: TestNG.jar,
+  selenium-server-standalone-3.12.0.jar,
+  testng/testng-6.9.9.jar
+Export-Package: TestNG

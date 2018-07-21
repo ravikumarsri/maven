@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [parameter facbook]">
+  <parameter name="password" value="mamta@sri143"/>
+  <parameter name="emailid" value="ds.sridhar09@gmail.com"/>
+  <parameter name="url" value="https://www.facebook.com/"/>
+  <test name="facebooklogin(failed)">
+    <parameter name="password" value="mamta@sri143"/>
+    <parameter name="emailid" value="ds.sridhar09@gmail.com"/>
+    <parameter name="url" value="https://www.facebook.com/"/>
+    <classes>
+      <class name="com.parameter.parametertest">
+        <methods>
+          <include name="login"/>
+        </methods>
+      </class> <!-- com.parameter.parametertest -->
+    </classes>
+  </test> <!-- facebooklogin(failed) -->
+</suite> <!-- Failed suite [parameter facbook] -->

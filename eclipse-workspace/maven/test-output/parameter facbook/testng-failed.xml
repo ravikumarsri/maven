@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [parameter facbook]">
+  <listeners>
+    <listener class-name="IAnnotation.Tranformer"/>
+  </listeners>
+  <test name="Retrymulitpletestcases(failed)">
+    <classes>
+      <class name="Reruntestcases.Runtest">
+        <methods>
+          <include name="test"/>
+        </methods>
+      </class> <!-- Reruntestcases.Runtest -->
+    </classes>
+  </test> <!-- Retrymulitpletestcases(failed) -->
+</suite> <!-- Failed suite [parameter facbook] -->

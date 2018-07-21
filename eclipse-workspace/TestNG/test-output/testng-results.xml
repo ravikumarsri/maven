@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="parameter facbook" duration-ms="15481" started-at="2018-07-12T06:08:41Z" finished-at="2018-07-12T06:08:57Z">
+    <groups>
+    </groups>
+    <test name="facebooklogin" duration-ms="15481" started-at="2018-07-12T06:08:41Z" finished-at="2018-07-12T06:08:57Z">
+      <class name="com.parameter.parametertest">
+        <test-method status="PASS" signature="login(java.lang.String, java.lang.String, java.lang.String)[pri:0, instance:com.parameter.parametertest@2344fc66]" name="login" duration-ms="15452" started-at="2018-07-12T14:08:41Z" finished-at="2018-07-12T14:08:57Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[https://www.facebook.com/]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[ds.sridhar09@gmail.com]]>
+              </value>
+            </param>
+            <param index="2">
+              <value>
+                <![CDATA[mamta@sri143]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- com.parameter.parametertest -->
+    </test> <!-- facebooklogin -->
+  </suite> <!-- parameter facbook -->
+</testng-results>

@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="1" ignored="0" total="7" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="161397" started-at="2018-07-21T07:06:49Z" finished-at="2018-07-21T07:09:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="161397" started-at="2018-07-21T07:06:49Z" finished-at="2018-07-21T07:09:30Z">
+      <class name="com.crm.qa.testcases.HomePageTest">
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="setup" is-config="true" duration-ms="19516" started-at="2018-07-21T15:06:49Z" finished-at="2018-07-21T15:07:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ClinkonnewcontactsTest()[pri:1, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="ClinkonnewcontactsTest" duration-ms="2340" started-at="2018-07-21T15:07:08Z" finished-at="2018-07-21T15:07:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClinkonnewcontactsTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="972" started-at="2018-07-21T15:07:11Z" finished-at="2018-07-21T15:07:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="setup" is-config="true" duration-ms="16975" started-at="2018-07-21T15:07:12Z" finished-at="2018-07-21T15:07:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ClinkonDealsTest()[pri:2, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="ClinkonDealsTest" duration-ms="1869" started-at="2018-07-21T15:07:29Z" finished-at="2018-07-21T15:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClinkonDealsTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="942" started-at="2018-07-21T15:07:31Z" finished-at="2018-07-21T15:07:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="setup" is-config="true" duration-ms="20825" started-at="2018-07-21T15:07:31Z" finished-at="2018-07-21T15:07:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ClinkonTasksTest()[pri:3, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="ClinkonTasksTest" duration-ms="1568" started-at="2018-07-21T15:07:52Z" finished-at="2018-07-21T15:07:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClinkonTasksTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="924" started-at="2018-07-21T15:07:54Z" finished-at="2018-07-21T15:07:55Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="setup" is-config="true" duration-ms="16602" started-at="2018-07-21T15:07:55Z" finished-at="2018-07-21T15:08:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateHomeTitleTest()[pri:4, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="validateHomeTitleTest" duration-ms="23" started-at="2018-07-21T15:08:11Z" finished-at="2018-07-21T15:08:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateHomeTitleTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="884" started-at="2018-07-21T15:08:11Z" finished-at="2018-07-21T15:08:12Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="setup" is-config="true" duration-ms="14952" started-at="2018-07-21T15:08:12Z" finished-at="2018-07-21T15:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="validateUsernamelabelTest()[pri:5, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="validateUsernamelabelTest" duration-ms="153" started-at="2018-07-21T15:08:27Z" finished-at="2018-07-21T15:08:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- validateUsernamelabelTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="914" started-at="2018-07-21T15:08:27Z" finished-at="2018-07-21T15:08:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="setup" is-config="true" duration-ms="19311" started-at="2018-07-21T15:08:28Z" finished-at="2018-07-21T15:08:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="FAIL" signature="ClikoncontactslinkTest()[pri:6, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="ClikoncontactslinkTest" duration-ms="20493" started-at="2018-07-21T15:08:48Z" finished-at="2018-07-21T15:09:08Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Contacts']"}  (Session info: chrome=67.0.3396.99)  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)Command duration or timeout: 0 millisecondsFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.htmlBuild info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'System info: host: 'DESKTOP-HEG1EMQ', ip: '192.168.236.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'Driver info: org.openqa.selenium.chrome.ChromeDriverCapabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\dssri\AppData\Local\Temp\scoped_dir220_13448}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=67.0.3396.99, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]Session ID: 61c75b356d14567796a4cf2864e5b982*** Element info: {Using=xpath, value=//a[text()='Contacts']}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: no such element: Unable to locate element: {"method":"xpath","selector":"//a[text()='Contacts']"}  (Session info: chrome=67.0.3396.99)  (Driver info: chromedriver=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab),platform=Windows NT 10.0.17134 x86_64) (WARNING: The server did not provide any stacktrace information)Command duration or timeout: 0 millisecondsFor documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.htmlBuild info: version: '3.5.3', revision: 'a88d25fe6b', time: '2017-08-29T12:42:44.417Z'System info: host: 'DESKTOP-HEG1EMQ', ip: '192.168.236.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_181'Driver info: org.openqa.selenium.chrome.ChromeDriverCapabilities [{mobileEmulationEnabled=false, hasTouchScreen=false, platform=XP, acceptSslCerts=false, acceptInsecureCerts=false, webStorageEnabled=true, browserName=chrome, takesScreenshot=true, javascriptEnabled=true, platformName=XP, setWindowRect=true, unexpectedAlertBehaviour=, applicationCacheEnabled=false, rotatable=false, networkConnectionEnabled=false, chrome={chromedriverVersion=2.40.565498 (ea082db3280dd6843ebfb08a625e3eb905c4f5ab), userDataDir=C:\Users\dssri\AppData\Local\Temp\scoped_dir220_13448}, takesHeapSnapshot=true, pageLoadStrategy=normal, unhandledPromptBehavior=, databaseEnabled=false, handlesAlerts=true, version=67.0.3396.99, browserConnectionEnabled=false, nativeEvents=true, locationContextEnabled=true, cssSelectorsEnabled=true}]Session ID: 61c75b356d14567796a4cf2864e5b982*** Element info: {Using=xpath, value=//a[text()='Contacts']}at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)at java.lang.reflect.Constructor.newInstance(Constructor.java:423)at org.openqa.selenium.remote.ErrorHandler.createThrowable(ErrorHandler.java:215)at org.openqa.selenium.remote.ErrorHandler.throwIfResponseFailed(ErrorHandler.java:167)at org.openqa.selenium.remote.http.JsonHttpResponseCodec.reconstructValue(JsonHttpResponseCodec.java:40)at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:82)at org.openqa.selenium.remote.http.AbstractHttpResponseCodec.decode(AbstractHttpResponseCodec.java:45)at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:82)at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:646)at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:416)at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:518)at org.openqa.selenium.By$ByXPath.findElement(By.java:361)at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:408)at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)at java.lang.reflect.Method.invoke(Method.java:498)at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:105)at com.sun.proxy.$Proxy7.findElement(Unknown Source)at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:189)at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)at com.sun.proxy.$Proxy11.click(Unknown Source)at com.crm.qa.pages.HomePage.Clikoncontactslink(HomePage.java:36)at com.crm.qa.testcases.HomePageTest.ClikoncontactslinkTest(HomePageTest.java:59)at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)at java.lang.reflect.Method.invoke(Method.java:498)at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)at org.testng.internal.Invoker.invokeMethod(Invoker.java:571)at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:707)at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:979)at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)at org.testng.TestRunner.privateRun(TestRunner.java:648)at org.testng.TestRunner.run(TestRunner.java:505)at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)at org.testng.SuiteRunner.run(SuiteRunner.java:364)at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)at org.testng.TestNG.runSuitesSequentially(TestNG.java:1187)at org.testng.TestNG.runSuitesLocally(TestNG.java:1116)at org.testng.TestNG.runSuites(TestNG.java:1028)at org.testng.TestNG.run(TestNG.java:996)at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClikoncontactslinkTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="1035" started-at="2018-07-21T15:09:08Z" finished-at="2018-07-21T15:09:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+        <test-method status="PASS" signature="setup()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="setup" is-config="true" duration-ms="18082" started-at="2018-07-21T15:09:09Z" finished-at="2018-07-21T15:09:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method status="PASS" signature="ClikonDealslinkTest()[pri:7, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="ClikonDealslinkTest" duration-ms="2030" started-at="2018-07-21T15:09:27Z" finished-at="2018-07-21T15:09:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClikonDealslinkTest -->
+        <test-method status="PASS" signature="teardown()[pri:0, instance:com.crm.qa.testcases.HomePageTest@7403c468]" name="teardown" is-config="true" duration-ms="897" started-at="2018-07-21T15:09:29Z" finished-at="2018-07-21T15:09:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- teardown -->
+      </class> <!-- com.crm.qa.testcases.HomePageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
